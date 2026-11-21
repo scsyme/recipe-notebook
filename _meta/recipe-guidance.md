@@ -1,5 +1,13 @@
 # Maintaining the recipe notebook
 
+## Extracting a recipe
+
+Start with the supplied video, recording, screenshots or page. For a video, check accessible speech, captions, on-screen text, description and relevant creator comments. If a YouTube Short fails, try the watch URL with the same ID. Search by video ID, exact title and creator for an original recipe page or matching post. Confirm the match using details such as episode number, quantities or distinctive steps.
+
+Prefer the creator’s version associated with the supplied recipe. Identify third-party reproductions, explain material differences and say which evidence was accessible. Only describe footage as viewed if it was viewed. If reasonable alternatives still leave gaps, return the verified details and say what is missing and which routes were tried. Ask for the smallest useful input, such as a screenshot of the ingredient list.
+
+Capture equipment, preparation details, timings, temperatures and technique cues when available. Label estimates and approximate conversions. Only convert volume to weight with an ingredient-specific basis. Preserve the creator’s version before offering adaptations. Label any material food-safety correction separately and cite its source.
+
 ## Kitchen pairings
 
 Would knowing about another recipe change what the cook does next? If so, add a **Kitchen pairing** section to each recipe. Write each note from the perspective of someone who opened that recipe first. Put it before the decision it affects, especially when the cook might discard something useful.

@@ -26,3 +26,10 @@ For example, the [chickpea cookies](../recipes/peanut-butter-and-chocolate-chip-
 ## After cooking
 
 Use **Unrecorded** in the index until a cook is confirmed. After a cook, update the index and add a dated entry under **My kitchen notes** in the recipe. Record what was tried, how it turned out and what to change next time. Keep the sourced method available so the two versions can be compared.
+
+## Working across ChatGPT and GitHub
+
+- [Extract a recipe and keep a draft](flows/capture.md)
+- [Publish a recipe to GitHub](flows/publish.md)
+- [Assess a recipe after cooking](flows/assess.md)
+- [Keep a snapshot of the published notebook](flows/archive.md)

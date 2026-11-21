@@ -19,3 +19,5 @@ A personal recipe notebook with ingredients, step-by-step methods, links to the 
 | [Single-serving yoghurt cheesecake](recipes/single-serving-yoghurt-cheesecake.md) | Unrecorded |
 
 After a cook, add a dated entry under **My kitchen notes** in the recipe and update the table. Useful things to record include substitutions, the oven setting used and what to change next time.
+
+[Guidance for adding recipes, kitchen pairings and cook notes](_meta/recipe-guidance.md)

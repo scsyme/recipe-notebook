@@ -2,6 +2,10 @@
 
 Makes 12 cookies.
 
+## Kitchen pairing
+
+Drain the tinned chickpeas over a bowl and save about 120 ml of the liquid for [aquafaba chocolate mousse](aquafaba-chocolate-mousse.md). Then weigh out the 600 g of drained chickpeas for the cookies.
+
 ## Ingredients
 
 - 600 g cooked chickpeas, drained weight

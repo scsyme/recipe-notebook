@@ -2,6 +2,10 @@
 
 Serves 2.
 
+## Kitchen pairing
+
+Save the drained chickpeas for [peanut butter and chocolate chip chickpea cookies](peanut-butter-and-chocolate-chip-chickpea-cookies.md). A full batch takes 600 g drained, so weigh what you have before planning the batch.
+
 ## Ingredients
 
 - About 120 ml aquafaba (the liquid drained from a tin of chickpeas)
